@@ -19,9 +19,9 @@ Use it via the browser extension: [Web Scraper - Simple Fast Free](https://chrom
 通过浏览器插件的方式使用：[网页信息一键爬取](https://chromewebstore.google.com/detail/web-scraper-simple-fast-f/jbponiplnhabgkangedoomdlljabhcho)
 
 1. Enter a website's sitemap URL, and it will automatically parse the sitemap.  
-   1. 输入网站的 sitemap URL，自动解析其 sitemap。
+1. 输入网站的 sitemap URL，自动解析其 sitemap。
 
 2. Copy the parsed sitemap, and it will automatically scrape information from each web page.  
-   2. 复制解析后的 sitemap，自动爬取各网页的信息。
+2. 复制解析后的 sitemap，自动爬取各网页的信息。
 
 ![Screenshot](1.png)
