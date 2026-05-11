@@ -5,10 +5,12 @@
 Web Scraper is a lightweight tool that quickly extracts the following information from web pages:
 Web Scraper 是一个轻量级工具，能够快速爬取网页的以下信息：
 
-- Title
-- Description
-- Keywords
-- H1 
+<ul>
+  <li>Title</li>
+  <li>Description</li>
+  <li>Keywords</li>
+  <li>H1</li>
+</ul>
 
 It can also export the scraped data to a spreadsheet for easy analysis and management.
 它还可以将爬取的数据导出为表格，方便分析和管理。
@@ -23,3 +25,5 @@ Use it via the browser extension: [Web Scraper - Simple Fast Free](https://chrom
 
 2. Copy the parsed sitemap, and it will automatically scrape information from each web page.
 2. 复制解析后的 sitemap，自动爬取各网页的信息。
+
+![Screenshot](1.png)
